@@ -10,6 +10,6 @@ The generated benchmarks are saved in ./benchmarkX/ in qasm file, where single-q
 
 Running quekno.py, you can generate QUEKNO benchmarks. What you need to do is to provide AG (architecture graph, can be defined in vf2.ag.py), cost_type, cost, subgraph_size, qbg_ratio etc.
 
-The benchmarks used in the paper are in the folder ./benchmark0422/. If you want to read the qct-solution and extract benchmark information such as average cx ratio, you may run benchmark_info_0422.py. You can also find the summarised information in ./data0422/. 
+The benchmarks used in the paper (genearted on 22.04.22) are the six zip files like 53Q_depth_Rochester.zip. If you want to read the qct-solution and extract benchmark information such as average cx ratio, you may run benchmark_info_0422.py. You can also find the summarised information in the zip files like meta0422-rochester.zip. 
 
 Send email (Sanjiang Li: mrlisj@gmail.com) if you have questions or suggestions!
