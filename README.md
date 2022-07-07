@@ -1,7 +1,7 @@
 # quekno
 A benchmark construction algorithm for quantum circuit transformation
 
-This repository is the Python implementation and generated benchmarks for the QUEKNO benchmark construction algorithm introduced in 
+This repository is the Python implementation for the QUEKNO benchmark construction algorithm introduced in 
 "On constructing benchmark quantum circuits with near-optimal transformation cost" by Sanjiang Li, Xiangzhen Zhou, and Yuan Feng. 
 
 Our algorithm uses the subgraph isomorphism algorithm VF2. We construct benchmarks for IBM Q Tokyo (20 qubits), Rochester (53 qubits) and Google's Sycamore (53 qubits). For a different quantum device, you may specify its architecture graph in vf2.ag.py.
@@ -12,4 +12,4 @@ Running quekno.py, you can generate QUEKNO benchmarks. What you need to do is to
 
 The benchmarks used in the paper are in the folder ./benchmark0422/. If you want to read the qct-solution and extract benchmark information such as average cx ratio, you may run benchmark_info_0422.py. You can also find the summarised information in ./data0422/. 
 
-Send email to me (Sanjiang Li: mrlisj@gmail.com) if you have questions or suggestions!
+Send email (Sanjiang Li: mrlisj@gmail.com) if you have questions or suggestions!
