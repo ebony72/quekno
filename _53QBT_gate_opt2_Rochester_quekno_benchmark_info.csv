@@ -1,0 +1,3 @@
+name,cost_type,cost,num_qbt,exact,gate_in,gate_out,cx_in,cx_out,cx_ratio,depth_in,depth_out,depth_ratio
+53QBT_large_gate_opt2_10_1.5_no.0,gate_opt2,10,51,True,267,297,106,136,1.283,26,29,1.1154
+53QBT_small_gate_opt2_10_1.5_no.0,gate_opt2,10,40,True,142,172,56,86,1.5357,16,23,1.4375
