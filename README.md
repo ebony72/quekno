@@ -1,5 +1,6 @@
 # quekno
 A benchmark construction algorithm for quantum circuit transformation
+(see https://github.com/dnngky/quekno-rx for another implementation)
 
 This repository is the Python implementation for the QUEKNO benchmark construction algorithm introduced in 
 "On constructing benchmark quantum circuits with near-optimal transformation cost" by Sanjiang Li, Xiangzhen Zhou, and Yuan Feng. https://arxiv.org/abs/2301.08932
